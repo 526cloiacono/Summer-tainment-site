@@ -1,0 +1,29 @@
+.name{
+    text-align: center;
+  margin-top: 139px;
+  font-size: 300px;
+  color: white;
+  text-shadow: 5px 5px black;
+  font-weight: 700;
+  font-style: normal;
+}
+.home{
+    background-image: url(/imgs/home2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+span{
+    color: #65C7CE;
+    background-color: grey;
+    border-radius: 4px;
+  }
+  span:hover{
+    background-color: #65C7CE;
+    color: grey;
+  }
+  nav{
+    font-size: 40px;
+  }
+ 

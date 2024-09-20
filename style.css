@@ -71,3 +71,18 @@ h2{
   width: 700px;
 
 }
+.list{
+  text-align: center;
+  font-size: 35px;
+  margin-bottom: 100px;
+  background-color: grey;
+  margin-right: 320px;
+  margin-left: 320px;
+  border-radius: 50px;
+}
+ol {
+    display: inline-block;
+    text-align: left;
+  }
+  
+

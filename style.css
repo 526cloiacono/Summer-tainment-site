@@ -7,6 +7,9 @@
   font-weight: 700;
   font-style: normal;
 }
+body{
+  background-color: #65C7CE;
+}
 .home{
     background-image: url(/imgs/home2.jpg);
   background-repeat: no-repeat;
@@ -55,4 +58,16 @@ button{
   text-align: center;
   background-color: #65C7CE;
   color:grey;
+}
+h2{
+  background-color: grey;
+  border-radius: 35px;
+  padding: 15px;
+}
+.house{
+  border: 10px solid grey;
+  border-radius: 25px;
+  height: 500px;
+  width: 700px;
+
 }

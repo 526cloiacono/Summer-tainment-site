@@ -11,7 +11,7 @@ body{
   background-color: #65C7CE;
 }
 .home{
-    background-image: url(imgs/home2.jpg);
+    background-image: url(/imgs/home2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
